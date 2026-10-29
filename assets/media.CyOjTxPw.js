@@ -1,1 +1,0 @@
-import{j as t}from"./index-XPJESybC.js";var a=!1,r=[],n={hero_peak_day:1,hero_harbour_night:1};var i={path:function(t,a){return!a&&n[t]?"/pkg_media/static/"+t+".webp":"/pkg_media/static/"+t+".jpg"},when:function(t){if(a)return t();if(r.push(t),!(r.length>1)){!function(){a=!0;var t=r;r=[],t.forEach(function(t){try{t()}catch(a){}})}()}}};const e=t(i);export{e as M,i as m};
