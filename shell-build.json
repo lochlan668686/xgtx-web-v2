@@ -1,10 +1,10 @@
 {
-  "version": "shell-v2.1-candidate",
+  "version": "shell-v2.1-home12-candidate",
   "source_branch": "cursor/spec-v1-shell-ia-a9d8",
   "source_base": "73308b6c3b7ed34fe070deffef7da1eea855f496",
   "source_changes": "uncommitted working tree",
-  "built_at": "2026-10-30T02:30:34.444Z",
-  "browser_checks": 43,
+  "built_at": "2026-10-30T02:51:39.932Z",
+  "browser_checks": 59,
   "visual_status": "awaiting user review",
   "no_exam_or_study_package": true
 }
