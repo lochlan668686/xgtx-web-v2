@@ -1,8 +1,10 @@
 {
-  "source_repository": "lochlan668686/xgtx-uniapp",
-  "source_branch": "codex/shell-card-redo-1030",
-  "source_commit": "069fc124e90c0c2ed090e748c80606356f9b81c1",
-  "base_commit": "73308b6c3b7ed34fe070deffef7da1eea855f496",
-  "prepared_at": "2026-10-30T00:28:20.688Z",
-  "index_sha256": "408d1ac414db050568fd71d00e3ed16e21df53e8a816d73bb8d7c19c032cca19"
+  "version": "shell-v2.1-candidate",
+  "source_branch": "cursor/spec-v1-shell-ia-a9d8",
+  "source_base": "73308b6c3b7ed34fe070deffef7da1eea855f496",
+  "source_changes": "uncommitted working tree",
+  "built_at": "2026-10-30T02:30:34.444Z",
+  "browser_checks": 43,
+  "visual_status": "awaiting user review",
+  "no_exam_or_study_package": true
 }
